@@ -1,5 +1,5 @@
 {
-  "name": "41_agicians",
+  "name": "44_sandwiches",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
+  "devDependencies": {
     "@types/node": "^20.11.28"
   }
 }
