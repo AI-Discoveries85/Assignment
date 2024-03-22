@@ -1,5 +1,5 @@
 {
-  "name": "2_personal_message",
+  "name": "3.name-cases",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@types/node": "^20.11.30"
+    "@types/node": "^20.11.25"
   }
 }
