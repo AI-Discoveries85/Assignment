@@ -1,5 +1,5 @@
 {
-  "name": "23.conditional-tests",
+  "name": "24.more-conditional-tests",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "@types/node": "^20.11.20"
+  "devDependencies": {
+    "@types/node": "^20.11.25"
   }
 }
